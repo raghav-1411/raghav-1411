@@ -60,6 +60,14 @@ I am passionate about turning **raw data into meaningful insights** and building
 
 ---
 
+## 🧠 DSA & Competitive Programming  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/raghav1411?theme=dark&font=Karma)
+
+🔗 **LeetCode Profile**: https://leetcode.com/u/raghav1411/
+
+---
+
 ## 📂 Featured Projects  
 
 📚 **Book Recommendation System**  
@@ -71,6 +79,11 @@ Computer Vision project using OpenCV
 📊 **Image Classifier using CNN**  
 Deep Learning project for image recognition  
 
+💱 **Currency Converter**  
+JavaScript-based application for real-time currency conversion  
+
+📉 **Churn Prediction System**  
+Machine Learning model to predict customer churn  
 
 ---
 
@@ -83,4 +96,5 @@ Deep Learning project for image recognition
 ---
 
 ⭐ *If you like my work, feel free to star my repositories and connect with me!*  
+
 

@@ -54,17 +54,20 @@ I am passionate about turning **raw data into meaningful insights** and building
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav-1411&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghav-1411&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-1411&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=raghav-1411&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=raghav-1411&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-1411&layout=compact&theme=tokyonight" />
 
 ---
 
 ## 🧠 DSA & Competitive Programming  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/raghav1411?theme=dark&font=Karma)
+<img src="https://leetcard.jacoblin.cool/raghav1411?theme=dark&font=Karma&ext=contest" />
 
 🔗 **LeetCode Profile**: https://leetcode.com/u/raghav1411/
+
 
 ---
 

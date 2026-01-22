@@ -82,8 +82,8 @@ Computer Vision project using OpenCV
 📊 **Image Classifier using CNN**  
 Deep Learning project for image recognition  
 
-💱 **Currency Converter**  
-JavaScript-based application for real-time currency conversion  
+⚡ **Energy Consumption Forecasting System**  
+Machine Learning–based time-series model for accurate household energy usage prediction
 
 📉 **Churn Prediction System**  
 Machine Learning model to predict customer churn  
@@ -94,7 +94,8 @@ Machine Learning model to predict customer churn
 
 - 📧 Email: **raghavchhabra1114@gmail.com**  
 - 💼 LinkedIn: [Raghav Chhabra](http://www.linkedin.com/in/raghav-chhabra-32218729b)  
-- 🌍 Portfolio: [https://raghav-1411.github.io/](https://raghav-1411.github.io/)  
+- 🌍 Portfolio: [https://raghav-1411.github.io/](https://raghav-1411.github.io/)
+- 💻 LeetCode: [https://leetcode.com/u/raghav1411/](https://leetcode.com/u/raghav1411/)
 
 ---
 

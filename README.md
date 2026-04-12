@@ -71,10 +71,12 @@
 
 ## 📊 GitHub Stats
 
+> **Note:** If stats cards don't render, see the [GitHub Actions setup](#-github-actions-setup-for-stats) section below.
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghav-1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-1411&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-git-master-raghav-1411.vercel.app/api?username=raghav-1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raghav's GitHub Stats" onerror="this.style.display='none'" />
+<img height="180em" src="https://github-readme-stats-git-master-raghav-1411.vercel.app/api/top-langs/?username=raghav-1411&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" onerror="this.style.display='none'" />
 
 </div>
 
@@ -83,6 +85,19 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=raghav-1411&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+### ⚡ Quick Stats (always visible)
+
+| Metric | Value |
+|--------|-------|
+| 🔥 Current Streak | Apr 11 – Apr 12, 2026 |
+| 📅 Total Contributions | 184+ (Apr 2025 – Present) |
+| 🏆 Longest Streak | 3 days (Jan 20 – Jan 22) |
+| ⭐ Repositories | [View all →](https://github.com/raghav-1411?tab=repositories) |
+
+### 🛠 GitHub Actions Setup for Stats
+
+To make the stats cards always work, **fork** [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), deploy it to your own **Vercel** account, and replace the image URLs above with your own deployment URL (e.g. `https://github-readme-stats-raghav-1411.vercel.app/api?username=raghav-1411...`). This bypasses GitHub's CSP restriction on shared Vercel deployments.
 
 ---
 
@@ -132,5 +147,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=raghav-1411&color=4f8ef7&style=flat-square&label=Profile+Views)
 
 </div>
-
 

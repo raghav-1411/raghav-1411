@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Raghav Chhabra
+<h3><code>raghav@github ~ $ whoami</code></h3>
 
-### 🤖 Aspiring Data Scientist & ML Engineer · 🇮🇳 India
+# 👋 Raghav Chhabra
+
+**Aspiring Data Scientist & ML Engineer** · 🇮🇳 India
 
 *Turning raw data into meaningful insights and intelligent systems.*
 
@@ -13,9 +15,9 @@
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+<h3><code>raghav@github ~ $ cat about.md</code></h3>
 
 - 🌱 Currently mastering **Data Structures & Algorithms, Data Science, and Machine Learning**
 - 📊 Passionate about **Data Analysis, Predictive Modeling, and AI-driven solutions**
@@ -23,11 +25,11 @@
 - 💻 Active competitive programmer on **LeetCode** (1157+ problems solved)
 - ⚡ I love converting raw data into stories, models, and products
 
----
+<br>
 
-## 🧠 Tech Stack
+<h3><code>raghav@github ~ $ ./stack.sh</code></h3>
 
-### 👨‍💻 Programming Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,7 +42,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### 📚 ML / Data Science Libraries
+**ML / Data Science**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -53,40 +55,38 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧩 Frameworks & Development
+**Frameworks & Dev**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
-### ⚙️ Tools & Platforms
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<br>
 
-## 📊 GitHub Stats
+<h3><code>raghav@github ~ $ ./contributions.sh</code></h3>
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raghav-1411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-1411&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
-<div align="center">
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raghav-1411&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
----
+<br>
 
-## 🧠 DSA & Competitive Programming
+<h3><code>raghav@github ~ $ ./dsa_stats.sh</code></h3>
 
 <div align="center">
 
@@ -98,9 +98,9 @@
 |----------|---------|-------|
 | 🟨 **LeetCode** | [raghav1411](https://leetcode.com/u/raghav1411/) | 1157+ solved · Rank #17687 |
 
----
+<br>
 
-## 📂 Featured Projects
+<h3><code>raghav@github ~ $ ls ./projects</code></h3>
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -110,9 +110,9 @@
 | ⚡ **[Energy Consumption Forecasting](https://github.com/raghav-1411)** | Time-series ML model for household energy usage prediction | Python, XGBoost, Pandas |
 | 📉 **[Customer Churn Prediction](https://github.com/raghav-1411)** | Classification model to identify at-risk customers | Scikit-Learn, CatBoost |
 
----
+<br>
 
-## 📫 Connect With Me
+<h3><code>raghav@github ~ $ ./connect.sh</code></h3>
 
 <div align="center">
 
@@ -132,4 +132,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=raghav-1411&color=4f8ef7&style=flat-square&label=Profile+Views)
 
 </div>
-
